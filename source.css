@@ -4,7 +4,7 @@
 
     :root {
     	--accent-color: #7289da;
-    	--accent-hover: #36f770;
+    	--accent-hover: #5b5183;
     	--accent-rgb: grey;
     	--alt-accent: #5680d4;
     	--alert-color: #f04747;
@@ -3628,8 +3628,8 @@
     .hasMore-3e72_v:hover,
     #dc-unlock-database-btn.dc-button:hover,
     .header-1RC2Wb .button-38aScr:not(:disabled):hover {
-    	/*background: var(--accent-hover) !important;
-    	border: 1px solid var(--accent-hover) !important;*/
+    	background: var(--accent-hover) !important;
+    	border: 1px solid var(--accent-hover) !important;
     }
 
     /* BUTTONS -> ALERT/ERROR */
@@ -3639,8 +3639,8 @@
     .actionButtons-3P85gM .lookFilled-1Gx00P.colorTransparent-1ewNp9 {
     	background: var(--alert-color) !important;
     	border: 1px solid var(--alert-color) !important;
-    	/*border: 1px solid var(--alert-color) !important;
-    	color: var(--alert-color) !important;*/
+    	border: 1px solid var(--alert-color) !important;
+    	color: var(--alert-color) !important;
     }
 
     .lookFilled-1Gx00P.colorRed-1TFJan:hover,
