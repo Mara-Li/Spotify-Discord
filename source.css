@@ -1408,7 +1408,11 @@
     .pickerButtons-v-PPYK {
     	width: auto;
     }
-
+    
+    .scrollerThemed-2oenus.themeHidden-2yP93k .scroller-2FKFPG {
+        scrollbar-width: none;
+        margin: auto;
+    }
     .webkit-26NYEN .buttons-205you,
     .buttons-3JBrkn {
     	margin: 0;
