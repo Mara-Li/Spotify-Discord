@@ -3439,7 +3439,6 @@
     	height: 32px !important;
     	min-height: 32px !important;
     	max-height: 32px !important;
-    	padding: 0 !important;
     	line-height: 24px !important;
     	background: var(--button-background) !important;
     	border-radius: 16px !important;
