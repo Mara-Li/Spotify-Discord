@@ -2556,9 +2556,10 @@
         	top: -24px;
         	left: 0;
         	padding: 0 4px;
-        	background: rgba(0, 0, 0, 0.85) !important;
+        	background: rgba(0, 0, 0, 0.52) !important;
         	transition: 200ms ease-in-out;
         	border-radius: 15px;
+          margin-right:auto !important;
         }
 
     .typing-2GQL18:hover {
