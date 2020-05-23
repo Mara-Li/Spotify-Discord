@@ -51,7 +51,7 @@
     }
 
     ::selection {
-    	background: grey;
+    	background: #0089ff;
     	color: #fff !important;
     	text-shadow: none;
     }
