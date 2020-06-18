@@ -1419,6 +1419,12 @@
     	right: 8px;
     }
 
+    .scroller-305q3I {
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 100%;
+}
+
     .buttons-3JBrkn .buttonWrapper-1ZmCpA .button-3AYNKb {
     	opacity: 1;
     }
