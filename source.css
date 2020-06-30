@@ -799,6 +799,10 @@
     	fill: #ccc;
     }
 
+		.members-1998pB,.members-1998pB>div {
+    /* background-color:var(--background-secondary) */
+		}
+
 
     /*
      *
@@ -2736,6 +2740,43 @@
     .contentRegion-3nDuYy {
     	background: var(--chat-color) !important;
     }
+
+		.sidebarRegionScroller-3MXcoP {
+    -ms-flex: 1 0 auto;
+    flex: 1 0 auto;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-pack: end;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    background: transparent !important ;
+	}
+
+	.contentRegionScroller-26nc1e {
+    height: 100%;
+    position: static;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    overflow-x: hidden;
+    background-color: transparent !important;
+	}
+
+
+
 
     /* USER/SERVER SETTINGS -> SIDEBAR */
 
@@ -5284,7 +5325,6 @@
 
     ::-webkit-scrollbar {
     	position: absolute;
-    	width: 16px !important;
     	background: transparent;
     }
 
