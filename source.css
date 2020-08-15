@@ -2323,26 +2323,40 @@
 
     /* BOTTOM BAR -> ADD BAR */
 
-    .membersWrap-2h-GB4:after,
-    .searchResultsWrap-2DKFzt:after,
-    .activityFeed-1C0EmJ:after,
-    .activityFeed-28jde9:after,
-    .gameLibrary-TTDw4Y:after,
-    .container-3gCOGc:after,
-    .applicationStore-1pNvnv:after,
-    .root-26DmKJ .scroller-2FKFPG:after,
-    .root-1BQpZw:after,
-    .container-3Mxszk:after,
-		.members-1998pB:after,
-    .tabBody-3YRQ8W:after {
-    	content: " ";
-    	position: fixed;
-    	width: 100%;
-    	height: 72px;
-    	right: 0;
-    	bottom: 0;
-    	background: var(--bar-color);
-    }
+	.channelTextArea-2VhZ6z {
+			position: relative;
+			width: 100%;
+			text-indent: 0;
+			border-radius: 8px
+		}
+
+	.form-2fGMdU, .members-1998pB:after,
+	{
+		content: " ";
+		background: var(--bar-color);
+	}
+
+	.membersWrap-2h-GB4:after,
+	.searchResultsWrap-2DKFzt:after,
+	.activityFeed-1C0EmJ:after,
+	.activityFeed-28jde9:after,
+	.gameLibrary-TTDw4Y:after,
+	.container-3gCOGc:after,
+	.applicationStore-1pNvnv:after,
+	.root-26DmKJ .scroller-2FKFPG:after,
+	.root-1BQpZw:after,
+	.container-3Mxszk:after,
+	.tabBody-3YRQ8W:after,
+	.channelTextArea-2VhZ6z:after,
+	 {
+		content: " ";
+		position: fixed;
+		width: 100%;
+		height: 72px;
+		right: 0;
+		bottom: 0;
+		background: var(--bar-color);
+	}
 
     /* BOTTOM BAR -> STATUS BAR */
 
