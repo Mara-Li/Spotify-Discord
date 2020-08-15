@@ -5456,12 +5456,6 @@ textarea.input-cIJ7To::-webkit-input-placeholder {
 	background-color: transparent;
 }
 
-::-webkit-scrollbar {
-	position: absolute;
-	width: 16px !important;
-	background: transparent;
-}
-
 ::-webkit-scrollbar-track {
 	background: rgba(0,0,0,0) !important;
 	border-radius: 0 !important;
