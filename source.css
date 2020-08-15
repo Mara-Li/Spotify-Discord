@@ -5790,7 +5790,7 @@ main[class^="chatContent"] > div[class^="messagesWrapper"] div[class^="divider-"
   position: initial;
   height: 100%;
   top: 0;
-	color: #94bdff;
+	color: #8aa3d4;
   font-weight: 600;
   padding: 0 8px;
   background-color: var(--background-primary);
@@ -5884,6 +5884,10 @@ div[class*="cozyMessage"][class*="mentioned"] > div[class*="contents"] > div[cla
 }
 
 /* Buttons */
+
+main[class^="chatContent"] > div[class*="messagesWrapper"] div[class*="cozyMessage"] > div[class*="buttonContainer"] > div[class*="buttons"][class*="isHeader"] {
+  top: 1.375rem;
+}
 
 
 main[class^="chatContent"] > div[class*="messagesWrapper"] div[class*="message"] > div[class*="buttonContainer"] > div[class*="buttons"] > div[class*="wrapper"] > div[class*="button"] {
