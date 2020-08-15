@@ -1,0 +1,60 @@
+//META{"name":"Black Spotify Discord","description":"Change the color of the theme Spotify discord, from capnkitten","author":"Mara / capnkitten","version":"1.0.0"} *//{}
+
+@import url(https://mara-li.github.io/Spotify-Discord/source.css);
+
+:root {
+
+	--accent-color: #7c9dc3 ;
+	--accent-hover: #9cbbf340;
+	--accent-rgb: blue;
+	--alt-accent: #5680d4;
+	--alert-color: #f04747;
+	--alert-hover: #ff4c4c;
+	--text-normal: white;
+
+	--chat-color: #1e1e1e;
+	--chat-box-color: #171717;
+	--side-color: #191919;
+	--bar-color: #2c2c2c;
+
+	/*--button-background: #1a1a1a;*/
+	--button-background: rgba(0,0,0,0.2);
+	--button-border: 1px solid #b2b2b2;
+	--button-border-hover: 1px solid #fff;
+	--card-border: var(--bar-color);
+
+	--slider-color: #b3b3b3;
+	--slider-background: var(--menu-border-color);
+
+	--popout-color: var(--bar-color);
+	--popout-radius: 7px;
+
+	--menu-hover-color: #424242;
+	--menu-hover-color-alt: #252525;
+	--menu-select-color: #4d4d4d;
+	--menu-border-color: #424242;
+	--menu-text-color: #b2b2b2;
+
+	--input-bg: black;
+	--input-text-color: white;
+	--input-placeholder-color: #444;
+	--select-input-color: #363636;
+
+	--checkbox-border-checked: transparent;
+	--checkbox-border-unchecked: var(--menu-border-color);
+	--checkbox-checked: #fff;
+	--checkbox-unchecked: #9f9f9f;
+
+	--default-shadow: 0 7px 18px rgba(0,0,0,0.25), 0 6px 10px rgba(0,0,0,0.25), 0 -2px 10px rgba(0,0,0,0.25), 0 0 15px rgba(0,0,0,0.25);
+
+	--scrollbar-track: #1e1e1e;
+	--scrollbar-thumb: #545454;
+	--scrollbar-thumb-hover: #9f9f9f;
+}
+
+
+::selection {
+	background: lightblue;
+	color: #fff !important;
+	text-shadow: none;
+}
