@@ -5,8 +5,9 @@
 > Note : the theme auto update.
 > All the blur on the screenshot are here because of privacy.
 
-[**Original**](https://github.com/CapnKitten/BetterDiscord/tree/master/Spotify-Discord)
-[**Original discord base**](https://github.com/fluffingtons/revert-discord)
+[**Original theme**](https://github.com/CapnKitten/BetterDiscord/tree/master/Spotify-Discord)
+
+[**Old discord source**](https://github.com/fluffingtons/revert-discord)
 
 You can change the color in the `black_spotify.theme.css` directly, but some are "blocked" and you can found and change it with CTRL + Shift + I and search the color you want change.
 
