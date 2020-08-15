@@ -2330,10 +2330,10 @@
 			border-radius: 8px
 		}
 
-	.form-2fGMdU, .members-1998pB:after,
-	{
-		content: " ";
-		background: var(--bar-color);
+		.form-2fGMdU {
+	    content: " ";
+	    position:relative;
+	    background: var(--bar-color);
 	}
 
 	.membersWrap-2h-GB4:after,
