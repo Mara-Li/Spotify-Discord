@@ -6015,7 +6015,6 @@ main[class^="chatContent"] > div[class*="messagesWrapper"] div[class*="divider"]
 
 /* Input */
 main[class^="chatContent"] form[class*="form"] {
-  border-top: 1px solid var(--background-modifier-accent);
   padding: 0;
   margin-left: 20px;
   margin-right: 20px;
