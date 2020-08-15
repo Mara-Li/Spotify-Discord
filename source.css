@@ -5889,6 +5889,13 @@ main[class^="chatContent"] > div[class*="messagesWrapper"] div[class*="cozyMessa
   top: 1.375rem;
 }
 
+main[class^="chatContent"] > div[class*="messagesWrapper"] div[class*="message"] > div[class*="buttonContainer"] > div[class*="buttons"] > div[class*="wrapper"] {
+  height: 1.375rem;
+  background-color: transparent;
+  box-shadow: none;
+  display: flex;
+  align-items: flex-start;
+}
 
 main[class^="chatContent"] > div[class*="messagesWrapper"] div[class*="message"] > div[class*="buttonContainer"] > div[class*="buttons"] > div[class*="wrapper"] > div[class*="button"] {
   height: 1rem;
