@@ -1,52 +1,35 @@
-# Spotify Discord Theme
-#### Combine Discord and Spotify into one
+# Black Spotify & Old Discord
+#### Combine the old discord in black, and Spotify.
 <hr>
 
-Current version: v1.3.3 (15/03/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Spotify-Discord/master/Spotify-Discord.theme.css)**
+> Note : the theme auto update.
+> All the blur on the screenshot are here because of privacy.
 
-Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Spotify-Discord
+[**Original**](https://github.com/CapnKitten/BetterDiscord/tree/master/Spotify-Discord)
+[**Original discord base**](https://github.com/fluffingtons/revert-discord)
+
+You can change the color in the `black_spotify.theme.css` directly, but some are "blocked" and you can found and change it with CTRL + Shift + I and search the color you want change.
 
 ## Previews
+### Main chat area
 
-(Previews are subject to be out of date)
-
-#### Main chat area
-
-![discord-001](https://user-images.githubusercontent.com/4013216/44601841-ce77bd00-a7ab-11e8-9b2c-7ccd443e96fd.png)
-
-#### User server info
-
-![discord-002](https://user-images.githubusercontent.com/4013216/44601843-cfa8ea00-a7ab-11e8-972f-8194d688e28a.png)
-
-#### User info popout
-
-![discord-003](https://user-images.githubusercontent.com/4013216/44601847-d0da1700-a7ab-11e8-9e9a-6503af0fca18.png)
-
-#### User settings
-
-![discord-004](https://user-images.githubusercontent.com/4013216/44601850-d20b4400-a7ab-11e8-94cc-5bf9beaf084c.png)
-
-![discord-005](https://user-images.githubusercontent.com/4013216/44601855-d3d50780-a7ab-11e8-9d70-6d65580f2c35.png)
-
-#### DMs
-
-![discord-006](https://user-images.githubusercontent.com/4013216/44601859-d5063480-a7ab-11e8-8c3e-c3a390782cfc.png)
-
-#### Game center
-
-![discord-007](https://user-images.githubusercontent.com/4013216/44601861-d59ecb00-a7ab-11e8-82ae-9cd93564fec0.png)
-
-![discord-008](https://user-images.githubusercontent.com/4013216/44601870-d899bb80-a7ab-11e8-8e34-737120c40fc6.png)
-
-## Changelog
-
-#### v1.3.2
-* Various icons updated
-* Mentioned messages updated
-* Messages container scrollbar gap at the bottom fixed
-* Create/join server modal updated
-* Removed deprecated code regarding things Discord removed
+![discord_001](https://raw.githubusercontent.com/Mara-Li/Spotify-Discord/master/screenshot/1.png)
 
 
-[View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Spotify-Discord/README.md)
+### User info popout
 
+![discord-002](https://raw.githubusercontent.com/Mara-Li/Spotify-Discord/master/screenshot/2.png)
+
+### User settings
+
+![discord-003](https://raw.githubusercontent.com/Mara-Li/Spotify-Discord/master/screenshot/3.png)
+
+![discord-004](https://github.com/Mara-Li/Spotify-Discord/blob/master/screenshot/4.png)
+
+### DMs
+
+![discord-005](https://raw.githubusercontent.com/Mara-Li/Spotify-Discord/master/screenshot/5.png)
+
+### Friend List
+
+![discord-006](https://raw.githubusercontent.com/Mara-Li/Spotify-Discord/master/screenshot/6.png)
