@@ -5476,10 +5476,20 @@ textarea.input-cIJ7To::-webkit-input-placeholder {
 
 ::-webkit-scrollbar-thumb {
 	display: initial;
-	background-color: var(--scrollbar-thumb) !important;
+	background-color: transparent !important;
 	border: 0 solid transparent !important;
 	border-radius: 0 !important;
+	visibility: hidden;
 }
+
+.thin-1ybCId::-webkit-scrollbar-thumb {
+    background-clip: padding-box;
+    border: 2px solid transparent;
+    border-radius: 4px;
+    background-color: transparent;
+    min-height: 40px;
+}
+
 
 ::-webkit-scrollbar-thumb:hover,
 ::-webkit-scrollbar-thumb:active {
