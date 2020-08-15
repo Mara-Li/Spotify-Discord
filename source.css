@@ -5785,7 +5785,7 @@ main[class^="chatContent"] > div[class^="messagesWrapper"] div[class^="divider-"
   position: initial;
   height: 100%;
   top: 0;
-  color: #f04747;
+	color: #8aa3d4;
   font-weight: 600;
   padding: 0 8px;
   background-color: var(--background-primary);
@@ -5795,7 +5795,7 @@ main[class^="chatContent"] > div[class^="messagesWrapper"] div[class^="divider-"
 
 main[class^="chatContent"] > div[class^="messagesWrapper"] div[class^="divider-"][class*="isUnread"] > span[class*="unreadPill"]::after {
   font-size: 14px;
-  content: "NEW MESSAGES";
+  content: "UPDATE";
 }
 
 main[class^="chatContent"] > div[class^="messagesWrapper"] div[class^="divider-"][class*="isUnread"] > span::before {
