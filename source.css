@@ -5795,7 +5795,7 @@ main[class^="chatContent"] > div[class^="messagesWrapper"] div[class^="divider-"
 
 main[class^="chatContent"] > div[class^="messagesWrapper"] div[class^="divider-"][class*="isUnread"] > span[class*="unreadPill"]::after {
   font-size: 14px;
-  content: "UPDATE";
+  content: "NEW MESSAGES";
 }
 
 main[class^="chatContent"] > div[class^="messagesWrapper"] div[class^="divider-"][class*="isUnread"] > span::before {
@@ -6051,6 +6051,13 @@ main[class^="chatContent"] > div[class*="messagesWrapper"] div[class*="divider"]
 }
 
 /* Input */
+main[class^="chatContent"] form[class*="form"] {
+  border-top: 1px solid var(--background-modifier-accent);
+  padding: 0;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 0;
+}
 
 main[class^="chatContent"] div[class*="jumpToPresentBar"] {
   padding: 0;
