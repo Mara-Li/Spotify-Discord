@@ -6,7 +6,7 @@
 
 	--accent-color: #7c9dc3 ;
 	--accent-hover: #9cbbf340;
-	--accent-rgb: blue;
+	--accent-rgb: teal;
 	--alt-accent: #5680d4;
 	--alert-color: #f04747;
 	--alert-hover: #ff4c4c;
@@ -16,6 +16,7 @@
 	--chat-box-color: #171717;
 	--side-color: #191919;
 	--bar-color: #2c2c2c;
+	--title-color: #202225 !important;
 
 	/*--button-background: #1a1a1a;*/
 	--button-background: rgba(0,0,0,0.2);
@@ -35,8 +36,8 @@
 	--menu-border-color: #424242;
 	--menu-text-color: #b2b2b2;
 
-	--input-bg: black;
-	--input-text-color: white;
+	--input-bg: #1b1b1b;
+	--input-text-color: #d9dcdf;
 	--input-placeholder-color: #444;
 	--select-input-color: #363636;
 
