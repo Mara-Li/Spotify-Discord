@@ -4017,8 +4017,11 @@ textarea.input-cIJ7To::-webkit-input-placeholder {
 }
 
 .inputDefault-_djjkz {
-	padding-left:10px;
+	/* padding-left:10px; */
+	padding: 0;
+	padding-left: 28px;
 }
+
 
 
 /*
