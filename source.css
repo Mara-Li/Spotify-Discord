@@ -4016,6 +4016,10 @@ textarea.input-cIJ7To::-webkit-input-placeholder {
 	background: var(--menu-hover-color) !important;
 }
 
+.inputDefault-_djjkz {
+	padding-left:10px;
+}
+
 
 /*
  *
@@ -4025,9 +4029,9 @@ textarea.input-cIJ7To::-webkit-input-placeholder {
 
 .checkbox-3kaeSU .checkboxInner-3yjcPe .checkboxElement-1qV33p:checked + span,
 .checkbox .checkbox-inner input[type=checkbox]:checked+span,
-.checkbox-1ix_J3[style*="border-color: rgb(114, 137, 218)"] {
-	background-color: var(--accent-color) !important;
-	border-color: var(--accent-color) !important;
+.checkbox-1ix_J3[style*="border-color: rgb(1114, 137, 218)"] {
+	background-color: white !important;
+	border-color: white !important;
 	transition: 300ms ease all !important;
 }
 
