@@ -3802,8 +3802,6 @@ a,
 .form.deprecated .control-group input[type=text],
 .dc-password-field,
 .searchBar-6Kv8R2 .searchBarComponent-32dTOx input {
-	height: 32px !important;
-	padding: 0 12px !important;
 	background: var(--input-bg) !important;
 	box-shadow: none !important;
 	border-radius: 16px !important;
