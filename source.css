@@ -4018,8 +4018,10 @@ textarea.input-cIJ7To::-webkit-input-placeholder {
 
 .inputDefault-_djjkz {
 	/* padding-left:10px; */
-	padding: 0;
-	padding-left: 28px;
+	padding-right: 0;
+	padding-bottom:0;
+	padding-top:0;
+	
 }
 
 
